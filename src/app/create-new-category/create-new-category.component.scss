@@ -1,0 +1,81 @@
+
+.color{
+    font-size: 30px;
+    border-radius: 50%;
+    border-width: 1px;
+    transition: all 0.2s ease-in-out;
+}
+.color-rojo {
+    color: #E5383B; 
+}
+.color-rojo:hover {
+    border: 2px solid #E5383B;
+    transform: scale(1.01px); 
+}
+.color-papaya {
+    color: #FF7F51; 
+}
+.color-papaya:hover {
+    border: 2px solid #FF7F51;
+    transform: scale(1.01px); 
+}
+.color-naranja {
+    color: #F4A261;
+}
+.color-naranja:hover {
+    border: 2px solid #F4A261;
+    transform: scale(1.01px); 
+}
+.color-perico {
+    color:#4ea886;
+}
+.color-perico:hover {
+    border: 2px solid #4ea886;
+    transform: scale(1.01px); 
+}
+.color-jade {
+    color: #59c0b6;
+}
+.color-jade:hover {
+    border: 2px solid #59c0b6;
+    transform: scale(1.01px); 
+}
+.color-turquesa{
+    color:  #00B4D8;
+}
+.color-turquesa:hover {
+    border: 2px solid  #00B4D8;
+    transform: scale(1.01px); 
+}
+.color-cielo {
+    color:  #7FC8F8;
+}
+.color-cielo:hover {
+    border: 2px solid #7FC8F8;
+    transform: scale(0.05px) ; 
+} 
+.color-blu {
+    color:  #4654ce;
+}
+.color-blu:hover {
+    border: 2px solid #4654ce;
+    transform: scale(0.05px) ; 
+} 
+
+.buttonCrear{
+    width: 98%;
+    background-color: #b63978;
+    color: white;
+}
+
+.itemIcon {
+    font-size: 25px;
+    text-align: center;
+    color: #495057;
+}
+.btn.itemIcon:hover {
+    background-color: #495057;
+    color: white;
+    border-radius: 50%;
+  }
+
